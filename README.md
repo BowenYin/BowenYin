@@ -1,5 +1,3 @@
-### Hi there 👋
-
 GitHub Gists: https://gist.github.com/BowenYin
 
 [Santa Clara County COVID-19 Trend Visualization](https://datastudio.google.com/reporting/ebeeac9a-ceab-428f-91f0-1461404e00ae?utm_source=github)
