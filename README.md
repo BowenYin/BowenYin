@@ -1,4 +1,4 @@
-### Hi it's me
+### Hey there
 
 [Santa Clara County COVID-19 Trend Visualization](https://datastudio.google.com/reporting/ebeeac9a-ceab-428f-91f0-1461404e00ae?utm_source=github)
 ![](https://87f7290bbb154c8753a737c7b24a6d1e.m.pipedream.net)
